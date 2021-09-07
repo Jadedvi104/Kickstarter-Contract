@@ -1,5 +1,8 @@
 # Kickstarter-Contract
-#npm install node
-#npm install next react react-dom
+first you need to install
+npm install node next react react-dom
 
-test at your localhost:3000
+second you run it.
+npm run dev
+
+then test at your localhost:3000
